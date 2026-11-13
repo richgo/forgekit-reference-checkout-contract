@@ -1,0 +1,1 @@
+{"schema":1,"change":"checkout-contract","acceptance":{"AC-001":{"spec":"openspec/changes/checkout-contract/specs/checkout/spec.md","scenario":"Return the currency"}}}
